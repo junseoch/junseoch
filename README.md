@@ -6,4 +6,4 @@
 📓 **Notion** | https://www.notion.so/2b79a85d93a280a78b82c2bf5941777d?source=copy_link
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
